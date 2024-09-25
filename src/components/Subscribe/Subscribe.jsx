@@ -35,7 +35,7 @@ const Subscribe = () => {
              Learn at your own pace and build real-world projects.
             </p>
             <a
-              href=""
+              href="#"
               className="primary-btn !mt-8 inline-flex items-center gap-4 group"
             >
               Subscribe Now
